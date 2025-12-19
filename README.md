@@ -1,3 +1,5 @@
+[![Katie Cook's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Katie_Cook123&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Katie__Cook123-orange?logo=leetcode)](https://leetcode.com/Katie_Cook123/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-✔️-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-✔️-3178C6?logo=typescript)

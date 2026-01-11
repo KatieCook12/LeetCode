@@ -1,5 +1,5 @@
 function theMaximumAchievableX(num: number, t: number): number {
 
-    return num + (t * 2)
+    return num + (t * 2);
     
 };

@@ -1,26 +1,24 @@
 function vowelStrings(words: string[], left: number, right: number): number {
 
-    const vowelCharacters: string[] = ["a", "e", "i", "o", "u"];
     let count: number = 0;
 
-    words = words.slice(left, right + 1);
+    for (let i = left; i < right + 1; i++) {
 
-    for (const word of words){
+        const first: string = words[i][0]
+        const last: string = words[i][words[i].length - 1]
 
-        if (vowelCharacters.includes(word[0]) && vowelCharacters.includes(word[word.length - 1])){
-            console.log(word)
-            console.log(word[0])
-            console.log(word[word.length - 1])
-
-            count ++;
+        if (
+            first === 'a' || first === 'e' || first === 'i' || first === 'o' || first === 'u'
+        ) {
+            if (
+                last === 'a' || last === 'e' || last === 'i' || last === 'o' || last === 'u'
+            ) {
+                count++;
+            }
         }
-       
+
     }
 
     return count;
 
-
-
-
-    
 };

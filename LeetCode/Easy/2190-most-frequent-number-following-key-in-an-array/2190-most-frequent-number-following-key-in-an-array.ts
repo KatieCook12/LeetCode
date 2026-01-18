@@ -6,6 +6,7 @@ function mostFrequent(nums: number[], key: number): number {
     let result = nums[0];
 
     for (let i = 0; i < nums.length - 1; i++) {
+
         if (nums[i] === key) {
             const target = nums[i + 1];
             counts[target] = (counts[target] ?? 0) + 1;
@@ -14,8 +15,11 @@ function mostFrequent(nums: number[], key: number): number {
                 maxCount = counts[target];
                 result = target;
             }
-        }
-    }
 
+        }
+
+    }
+    
     return result;
+    
 }

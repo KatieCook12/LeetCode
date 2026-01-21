@@ -1,21 +1,24 @@
 function checkPrimeFrequency(nums: number[]): boolean {
-
-    const freq: Map<number, number> = new Map();
+    const freq: number[] = new Array(101).fill(0);
 
     for (const num of nums) {
-        freq.set(num, (freq.get(num) ?? 0) + 1);
+        freq[num]++;
     }
 
-    const isPrime = (n: number): boolean => {
-        if (n < 2) return false;
-        for (let i = 2; i * i <= n; i++) {
-            if (n % i === 0) return false;
-        }
-        return true;
-    };
+    const isPrime: boolean[] = new Array(101).fill(true);
+    isPrime[0] = false;
+    isPrime[1] = false;
 
-    for (const count of freq.values()) {
-        if (isPrime(count)) return true;
+    for (let i = 2; i * i <= 100; i++) {
+        if (isPrime[i]) {
+            for (let j = i * i; j <= 100; j += i) {
+                isPrime[j] = false;
+            }
+        }
+    }
+
+    for (const count of freq) {
+        if (isPrime[count]) return true;
     }
 
     return false;

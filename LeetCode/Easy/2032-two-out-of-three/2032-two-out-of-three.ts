@@ -4,7 +4,7 @@ function twoOutOfThree(nums1: number[], nums2: number[], nums3: number[]): numbe
     const nums2Set: Set<number> = new Set(nums2);
     const nums3Set: Set<number> = new Set(nums3);
 
-    const count: Record<string, number> = {};
+    const count = new Map<number, number>();
 
     function countSet(set: Set<number>): void {
         set.forEach((ele: number) => {

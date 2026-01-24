@@ -1,5 +1,5 @@
 function minPairSum(nums: number[]): number {
-    
+
     nums.sort((a, b) => a - b);
     let left: number = 0;
     let right: number = nums.length - 1;

@@ -6,6 +6,13 @@ function areOccurrencesEqual(s: string): boolean {
         map.set(ch, (map.get(ch) ?? 0) + 1);
     }
 
-    return new Set(map.values()).size === 1;
+    const it = map.values();
+    const first = it.next().value;
 
+    for (const v of it) {
+        if (v !== first) return false;
+    }
+
+    return true;
+    
 }

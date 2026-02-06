@@ -6,18 +6,16 @@ function finalString(s: string): string {
     for (let i = 0; i < sLength; i++) {
 
         if (s[i] != "i") {
-            finalString = finalString.concat(s[i]);
+            finalString = finalString.concat(s[i])
+
         }
+
         else {
-            let reversed: string = "";
-
-            for (let x = finalString.length - 1; x >= 0; x--) {
-                reversed += finalString[x];
-            }
-
-            finalString = reversed;
+            finalString = finalString.split("").reverse().join("")
         }
+
     }
 
     return finalString;
-}
+
+};

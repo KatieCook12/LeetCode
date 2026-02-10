@@ -1,9 +1,8 @@
 function decodeMessage(key: string, message: string): string {
 
-    const keySet = new Set(key.replaceAll(" ", ""))
-    const keyArray: string[] = [...keySet];
+    const keyArray: string[] = [...new Set(key.replaceAll(" ", ""))];
     const alphabet: string = "abcdefghijklmnopqrstuvwxyz"
-    const decodeKey = new Map();
+    const decodeKey: Map <string, string> = new Map();
     const decodedMessage: string[] = [];
     const keyArrayLength: number = keyArray.length;
 

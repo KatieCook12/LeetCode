@@ -1,4 +1,4 @@
-function decodeMessage(key: string, message: string): void {
+function decodeMessage(key: string, message: string): string {
 
     const keySet = new Set(key.replaceAll(" ", ""))
     const keyArray: string[] = [...keySet];

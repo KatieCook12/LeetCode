@@ -11,7 +11,7 @@ function decodeMessage(key: string, message: string): string {
     }
 
     for (const ch of message) {
-        if (decodeKey.get(ch) != undefined) {
+        if (ch != " ") {
             decodedMessage.push(decodeKey.get(ch))
         }
         else {

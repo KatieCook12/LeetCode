@@ -1,19 +1,17 @@
 function countAsterisks(s: string): number {
-
-    let count: number = 0;
-    let verticalBarCount: number = 0;
+    let count = 0;
+    let insideBars = false;
 
     for (const ch of s) {
 
         if (ch === "|") {
-            verticalBarCount === 0 ? verticalBarCount++ : verticalBarCount = 0;
-        }
+            insideBars = !insideBars;
 
-        if (verticalBarCount === 0 && ch === "*") {
+        } else if (!insideBars && ch === "*") {
             count++;
         }
-
+        
     }
 
     return count;
-};
+}

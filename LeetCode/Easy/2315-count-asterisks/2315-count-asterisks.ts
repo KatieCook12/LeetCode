@@ -12,7 +12,7 @@ function countAsterisks(s: string): number {
         if (verticalBarCount === 0 && ch === "*") {
             count++;
         }
-        
+
     }
 
     return count;

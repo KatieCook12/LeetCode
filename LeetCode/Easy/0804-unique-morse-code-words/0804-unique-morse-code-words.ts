@@ -2,7 +2,7 @@ function uniqueMorseRepresentations(words: string[]): number {
 
     const morseCode: string[] = [".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."];
 
-    const wordsConvertedToCode: string[] = [];
+    const wordsConvertedToCodeSet = new Set();
 
     for (const word of words) {
 
@@ -12,11 +12,11 @@ function uniqueMorseRepresentations(words: string[]): number {
             morseCodeOfWord.push(morseCode.at(ch.charCodeAt(0) - 97))
         }
 
-        wordsConvertedToCode.push(morseCodeOfWord.join(""))
+        wordsConvertedToCodeSet.add(morseCodeOfWord.join(""))
         morseCodeOfWord = [];
 
     }
 
-    return new Set(wordsConvertedToCode).size
+    return wordsConvertedToCodeSet.size
 
 };

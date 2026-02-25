@@ -1,13 +1,14 @@
 function findTheDifference(s: string, t: string): string {
 
-    if (new Set(t).size == 1 && s.length != 0){
-        return s;
+    let findDifference: number = 0;
+
+    for (let char of s) {
+        findDifference ^= char.charCodeAt(0);
     }
 
-    for (const ch of t){
-        if(!s.includes(ch)){
-            return ch;
-        }
+    for (let char of t) {
+        findDifference ^= char.charCodeAt(0);
     }
 
+    return String.fromCharCode(findDifference);
 };

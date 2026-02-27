@@ -13,7 +13,7 @@
 ## 📌 About
 
 This repository contains my solutions to **LeetCode** problems, organized by **difficulty level**.  
-Solutions are written in **JavaScript** and **TypeScript**, with a focus on clean code, optimal performance, and common interview patterns.
+Solutions are written in **JavaScript**, **TypeScript**, **MySQL**, and **Pandas**, with a focus on clean code, optimal performance, and common interview patterns.
 
 ---
 

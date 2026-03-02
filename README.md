@@ -43,3 +43,11 @@ Try solving each problem independently before reviewing the solution.
 
 If you find this repository useful, feel free to ⭐ star it!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
+<!---LeetCode Topics End-->

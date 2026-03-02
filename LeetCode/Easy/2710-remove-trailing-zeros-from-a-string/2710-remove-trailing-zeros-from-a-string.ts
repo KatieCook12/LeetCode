@@ -1,15 +1,10 @@
 function removeTrailingZeros(num: string): string {
 
-    const numArray: string[] = num.split("");
-    const numArrayLength: number = numArray.length - 1;
-    let index: number = 0;
+    let n: number = +num;
 
-    for (let i = numArrayLength; i >= 0; i--) {
-        if (numArray[i] != "0") {
-            index = i + 1;
-            break;
-        }
+    while (n % 10 === 0 && n !== 0) {
+        n /= 10;
     }
 
-    return numArray.slice(0, index).join("");
+    return n.toString();
 };

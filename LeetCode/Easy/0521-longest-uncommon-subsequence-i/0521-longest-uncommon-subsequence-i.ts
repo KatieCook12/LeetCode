@@ -4,11 +4,7 @@ function findLUSlength(a: string, b: string): number {
         return -1;
     }
     else {
-        if (a.length > b.length){
-            return a.length;
-        } else {
-            return b.length;
-        }
+        return a.length > b.length ? a.length : b.length;
     }
     
 };

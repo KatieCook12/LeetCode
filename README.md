@@ -49,5 +49,6 @@ If you find this repository useful, feel free to ⭐ star it!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 <!---LeetCode Topics End-->

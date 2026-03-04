@@ -51,4 +51,12 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 <!---LeetCode Topics End-->

@@ -1,21 +1,17 @@
 function finalPositionOfSnake(n: number, commands: string[]): number {
 
-    let number: number = 0;
+    let position: number = 0;
+
+    const move: Record<string, number> = {
+        DOWN: n,
+        UP: -n,
+        RIGHT: 1,
+        LEFT: -1
+    };
 
     for (const command of commands) {
-        if (command == "DOWN") {
-            number += n;
-        }
-        if (command == "RIGHT") {
-            number += 1;
-        }
-        if (command == "UP") {
-            number -= n;
-        }
-        if (command == "LEFT") {
-            number -= 1;
-        }
+        position += move[command];
     }
 
-    return number;
-};
+    return position;
+}

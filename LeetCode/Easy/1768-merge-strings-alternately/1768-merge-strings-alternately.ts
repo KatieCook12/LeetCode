@@ -1,25 +1,12 @@
 function mergeAlternately(word1: string, word2: string): string {
 
-    const mergedStrings: string[] = [];
+    let result: string = "";
+    const maxLength: number = Math.max(word1.length, word2.length);
 
-    let word1Index: number = 0;
-    let word2Index: number = 0;
-
-    const wordLengthCombined: number = word1.length + word2.length;
-
-    while (mergedStrings.length < wordLengthCombined) {
-
-        if (word1[word1Index] != undefined) {
-            mergedStrings.push(word1[word1Index])
-        }
-
-        if (word2[word2Index] != undefined) {
-            mergedStrings.push(word2[word2Index])
-        }
-
-        word1Index++;
-        word2Index++
+    for (let i = 0; i < maxLength; i++) {
+        if (i < word1.length) result += word1[i];
+        if (i < word2.length) result += word2[i];
     }
 
-    return mergedStrings.join("");
+    return result;
 };

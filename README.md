@@ -78,4 +78,12 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->

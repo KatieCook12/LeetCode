@@ -1,9 +1,5 @@
 function convertDateToBinary(date: string): string {
 
-    const dateArray: number[] = date.replace(/-/g, " ").split(" ").map(Number);
-    const dateToBinary: string[] = [];
+    return date.split("-").map(n => (+n).toString(2)).join("-");
 
-    dateArray.forEach(date => dateToBinary.push(date.toString(2)));
-
-    return dateToBinary.join("-");
 };

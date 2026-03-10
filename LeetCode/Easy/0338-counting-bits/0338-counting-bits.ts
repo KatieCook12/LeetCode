@@ -1,12 +1,9 @@
 function countBits(n: number): number[] {
+    const result: number[] = new Array(n + 1).fill(0);
 
-    const bitArray: number[] = [];
-
-    for (let i = 0; i <= n; i++) {
-        let count: number = 0;
-        i.toString(2).split("").map(Number).forEach(num => count += num);
-        bitArray.push(count);
+    for (let i = 1; i <= n; i++) {
+        result[i] = result[i & (i - 1)] + 1;
     }
 
-    return bitArray;
-};
+    return result;
+}

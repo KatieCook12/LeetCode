@@ -1,9 +1,9 @@
 function countBits(n: number): number[] {
-    const result: number[] = new Array(n + 1).fill(0);
+    const countingBitsArray: number[] = [];
 
-    for (let i = 1; i <= n; i++) {
-        result[i] = result[i & (i - 1)] + 1;
+    for (let i=0; i <= n; i++){
+        countingBitsArray.push(i.toString(2).replace(/0/g, "").length)
     }
 
-    return result;
+    return countingBitsArray;
 }

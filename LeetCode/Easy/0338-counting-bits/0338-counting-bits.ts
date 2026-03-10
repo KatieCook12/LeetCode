@@ -1,8 +1,8 @@
 function countBits(n: number): number[] {
-    const countingBitsArray: number[] = [];
+    const countingBitsArray: number[] = new Array(n + 1).fill(0);
 
-    for (let i=0; i <= n; i++){
-        countingBitsArray.push(i.toString(2).replace(/0/g, "").length)
+    for (let i = 1; i <= n; i++) {
+        countingBitsArray[i] = countingBitsArray[i & (i - 1)] + 1;
     }
 
     return countingBitsArray;

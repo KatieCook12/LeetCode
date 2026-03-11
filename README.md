@@ -77,6 +77,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

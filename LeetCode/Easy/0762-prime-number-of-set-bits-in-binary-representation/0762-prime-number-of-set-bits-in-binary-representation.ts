@@ -1,22 +1,19 @@
 function countPrimeSetBits(left: number, right: number): number {
-
-    const primes = [2, 3, 5, 7, 11, 13, 17, 19];
-    let count = 0;
+    let total: number = 0;
 
     for (let n = left; n <= right; n++) {
+        let x: number = n;
+        let bits: number = 0;
 
-        let num = n;
-        let bits = 0;
-
-        while (num) {
-            num = num & (num - 1);
+        while (x !== 0) {
+            x &= x - 1;
             bits++;
         }
 
-        if (primes.includes(bits)) {
-            count++;
+        if ((1 << bits) & 665772) {
+            total++;
         }
     }
 
-    return count;
+    return total;
 }

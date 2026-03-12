@@ -89,6 +89,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0461-hamming-distance](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

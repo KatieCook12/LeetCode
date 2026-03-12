@@ -77,6 +77,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 ## Divide and Conquer
@@ -88,6 +89,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

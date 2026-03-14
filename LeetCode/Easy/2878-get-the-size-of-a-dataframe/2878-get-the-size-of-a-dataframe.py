@@ -1,6 +1,5 @@
 import pandas as pd
 
 def getDataframeSize(players: pd.DataFrame) -> List[int]:
-    df = pd.DataFrame(players)
-    return [len(df), len(df.columns)]
+    return [len(pd.DataFrame(players)), len(pd.DataFrame(players).columns)]
     

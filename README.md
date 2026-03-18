@@ -51,6 +51,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |

@@ -12,5 +12,4 @@ function countGoodSubstrings(s: string): number {
     }
 
     return count;
-
 };

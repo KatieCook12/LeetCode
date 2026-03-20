@@ -4,7 +4,9 @@ function countGoodSubstrings(s: string): number {
     let sLength: number = s.length - 2;
 
     for (let i = 0; i < sLength; i++) {
-        if (new Set([s[i], s[i + 1], s[i + 2]]).size == 3) {
+        if (s[i] !== s[i + 1] &&
+            s[i] !== s[i + 2] &&
+            s[i + 1] !== s[i + 2]) {
             count++;
         }
     }

@@ -1,5 +1,4 @@
 function minDeletionSize(strs: string[]): number {
-
     let deletions: number = 0;
     const strsColLength: number = strs[0].length;
     const strsRowLength: number = strs.length;

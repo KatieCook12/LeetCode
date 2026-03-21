@@ -1,17 +1,17 @@
 function minDeletionSize(strs: string[]): number {
 
-    let count: number = 0;
+    let deletions: number = 0;
+    const strsColLength: number = strs[0].length;
+    const strsRowLength: number = strs.length;
 
-    const cols: number = strs[0].length;
-
-    for (let col = 0; col < cols; col++) {
-        for (let row = 0; row < strs.length - 1; row++) {
-            if (strs[row][col] > strs[row + 1][col]) {
-                count++;
+    for (let col = 0; col < strsColLength; col++) {
+        for (let row = 1; row < strsRowLength; row++) {
+            if (strs[row - 1][col] > strs[row][col]) {
+                deletions++;
                 break;
             }
         }
     }
 
-    return count;
+    return deletions;
 }

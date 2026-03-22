@@ -60,6 +60,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
+| [3798-largest-even-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3798-largest-even-number/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3856-trim-trailing-vowels/) | Easy |
 ## Array

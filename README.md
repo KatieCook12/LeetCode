@@ -56,6 +56,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
@@ -67,6 +68,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |

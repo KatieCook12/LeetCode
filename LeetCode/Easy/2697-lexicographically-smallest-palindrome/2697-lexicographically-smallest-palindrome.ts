@@ -1,19 +1,13 @@
 function makeSmallestPalindrome(s: string): string {
+    let left: number = 0;
+    let right: number = s.length - 1;
+    const arr: string[] = s.split("");
 
-    let leftIndex: number = 0;
-    let rightIndex: number = s.length - 1;
-
-    const sArray: string[] = s.split("")
-
-    while (leftIndex < rightIndex) {
-        if (sArray[leftIndex] != sArray[rightIndex]) {
-            sArray[leftIndex].charCodeAt(0) < sArray[rightIndex].charCodeAt(0) ?
-                sArray[rightIndex] = sArray[leftIndex]
-                : sArray[leftIndex] = sArray[rightIndex];
-        }
-        leftIndex++;
-        rightIndex--;
+    while (left < right) {
+        arr[left] < arr[right] ? arr[right] = arr[left] : arr[left] = arr[right]
+        left++;
+        right--;
     }
 
-    return sArray.join("");
-};
+    return arr.join("");
+}

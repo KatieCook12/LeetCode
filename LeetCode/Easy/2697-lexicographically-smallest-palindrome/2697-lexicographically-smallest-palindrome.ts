@@ -4,7 +4,7 @@ function makeSmallestPalindrome(s: string): string {
     const arr: string[] = s.split("");
 
     while (left < right) {
-        arr[left] < arr[right] ? arr[right] = arr[left] : arr[left] = arr[right]
+        arr[left] < arr[right] ? arr[right] = arr[left] : arr[left] = arr[right];
         left++;
         right--;
     }

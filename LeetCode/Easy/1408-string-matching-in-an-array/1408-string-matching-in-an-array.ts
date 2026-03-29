@@ -1,17 +1,16 @@
 function stringMatching(words: string[]): string[] {
 
     const output: string[] = [];
-    let index: number = 0;
     const wordLength: number = words.length;
 
-    while (index < words.length) {
-        for (const word of words) {
-            if (word !== words[index] && word.includes(words[index])) {
-                output.push(words[index]);
+    for (let i = 0; i < wordLength; i++) {
+        for (let j = 0; j < wordLength; j++) {
+            if (i !== j && words[j].includes(words[i])) {
+                output.push(words[i]);
                 break;
             }
         }
-        index++;
+
     }
 
     return output;

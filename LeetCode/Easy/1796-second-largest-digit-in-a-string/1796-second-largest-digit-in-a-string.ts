@@ -6,7 +6,7 @@ function secondHighest(s: string): number {
 
         const charCode: number = ch.charCodeAt(0);
 
-        if (charCode > 48 && charCode < 57) {
+        if (charCode >= 48 && charCode <= 57) {
 
             if (+ch > max) {
                 second = max;

@@ -3,14 +3,16 @@ function secondHighest(s: string): number {
     let second: number = -1;
 
     for (const ch of s) {
-        if (ch >= '0' && ch <= '9') {
-            const digit = ch.charCodeAt(0) - 48;
 
-            if (digit > max) {
+        const charCode: number = ch.charCodeAt(0);
+
+        if (charCode > 48 && charCode < 57) {
+
+            if (+ch > max) {
                 second = max;
-                max = digit;
-            } else if (digit < max && digit > second) {
-                second = digit;
+                max = +ch;
+            } else if (+ch < max && +ch > second) {
+                second = +ch;
             }
         }
     }

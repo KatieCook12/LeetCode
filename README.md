@@ -52,6 +52,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
@@ -144,6 +145,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |

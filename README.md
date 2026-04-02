@@ -60,6 +60,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1796-second-largest-digit-in-a-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -90,6 +91,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers

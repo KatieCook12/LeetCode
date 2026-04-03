@@ -1,14 +1,14 @@
 function greatestLetter(s: string): string {
+    const chars: Set<string> = new Set(s);
 
-    let uppercaseChar: string = "";
+    for (let code = 90; code >= 65; code--) {
+        const upper = String.fromCharCode(code);
+        const lower = String.fromCharCode(code + 32);
 
-    for (const ch of s) {
-        if (s.includes(String.fromCharCode(ch.charCodeAt(0) + 32))) {
-            if (uppercaseChar < ch) {
-                uppercaseChar = ch;
-            }
+        if (chars.has(upper) && chars.has(lower)) {
+            return upper;
         }
     }
 
-    return uppercaseChar.toUpperCase();
-};
+    return "";
+}

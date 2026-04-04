@@ -1,7 +1,7 @@
 function busyStudent(startTime: number[], endTime: number[], queryTime: number): number {
 
     let count: number = 0;
-    const startTimeLength = startTime.length;
+    const startTimeLength: number = startTime.length;
 
     for (let i = 0; i < startTimeLength; i++) {
         if (startTime[i] <= queryTime) {

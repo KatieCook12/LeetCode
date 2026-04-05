@@ -1,11 +1,11 @@
 function generate(numRows: number): number[][] {
 
     const pascalsTriangle: number[][] = [[1]];
-    let count: number = numRows - 1;
+    let count: number = numRows;
 
-    while (count > 0) {
+    while (count > 1) {
 
-        const lastRow = pascalsTriangle[pascalsTriangle.length - 1];
+        const lastRow: number[] = pascalsTriangle[pascalsTriangle.length - 1];
         const nextRow: number[] = [1];
 
         for (let i = 0; i < lastRow.length - 1; i++) {
@@ -18,5 +18,4 @@ function generate(numRows: number): number[][] {
     }
 
     return pascalsTriangle;
-
 };

@@ -1,9 +1,10 @@
 function rowAndMaximumOnes(mat: number[][]): number[] {
     let index = 0;
     let count = 0;
+    const matLength: number = mat.length;
 
-    for (let i = 0; i < mat.length; i++) {
-        let currentCount = 0;
+    for (let i = 0; i < matLength; i++) {
+        let currentCount: number = 0;
 
         for (const num of mat[i]) {
             if (num === 1) currentCount++;

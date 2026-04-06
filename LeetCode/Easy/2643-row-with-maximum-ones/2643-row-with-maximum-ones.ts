@@ -8,7 +8,7 @@ function rowAndMaximumOnes(mat: number[][]): number[] {
         let currentCount: number = 0;
 
         mat[i].forEach(num => {
-            if (num === 1) {
+            if (num == 1) {
                 currentCount++;
             }
         });

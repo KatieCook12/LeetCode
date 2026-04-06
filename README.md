@@ -82,6 +82,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -170,4 +171,8 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 <!---LeetCode Topics End-->

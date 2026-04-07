@@ -111,6 +111,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2119-a-number-after-a-double-reversal](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -9,7 +9,7 @@ function addDigits(num: number): number {
             sum += currentNumber % 10;
             currentNumber = Math.floor(currentNumber / 10);
         }
-
+        
         addedDigits = sum;
     }
 

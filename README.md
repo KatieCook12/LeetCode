@@ -113,6 +113,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2806-account-balance-after-rounded-purchase](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |

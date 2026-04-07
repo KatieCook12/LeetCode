@@ -1,17 +1,17 @@
 function addDigits(num: number): number {
+    let addedDigits: number = num;
 
-    while (num.toString().length != 1) {
+    while (addedDigits >= 10) {
+        let currentNumber: number = addedDigits;
+        let sum: number = 0;
 
-        let currentNumber: number = 0;
-
-        for (const n of num.toString()) {
-            currentNumber += Number(n);
+        while (currentNumber !== 0) {
+            sum += currentNumber % 10;
+            currentNumber = Math.floor(currentNumber / 10);
         }
 
-        num = currentNumber;
-
+        addedDigits = sum;
     }
 
-    return num;
-
-};
+    return addedDigits;
+}

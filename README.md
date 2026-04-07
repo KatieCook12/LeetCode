@@ -96,6 +96,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -108,6 +109,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -178,4 +180,8 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->

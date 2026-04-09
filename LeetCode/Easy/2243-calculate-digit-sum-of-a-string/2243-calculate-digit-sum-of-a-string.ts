@@ -1,4 +1,5 @@
 function digitSum(s: string, k: number): string {
+
     while (s.length > k) {
         let next: string = "";
 
@@ -16,4 +17,5 @@ function digitSum(s: string, k: number): string {
     }
 
     return s;
+
 }

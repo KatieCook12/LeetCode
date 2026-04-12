@@ -7,29 +7,21 @@ function reverseByType(s: string): string {
     let reverseByLetterIndex: number = 0;
     let reverseByCharacterIndex: number = 0;
 
+    function isLetter(ch: string): boolean {
+        const code = ch.charCodeAt(0);
+        return code >= 97 && code <= 122;
+    }
 
     for (let i = sLength; i >= 0; i--) {
-
-        const charCode: number = s[i].charCodeAt(0);
-        if (charCode >= 97 && charCode <= 122 || charCode >= 65 && charCode <= 90) {
-            reversedLetter.push(s[i])
-        }
-        else {
-            reversedCharacters.push(s[i])
-        }
+        isLetter(s[i]) ? reversedLetter.push(s[i]) : reversedCharacters.push(s[i]);
     }
 
     for (let i = 0; i <= sLength; i++) {
-        const charCode: number = s[i].charCodeAt(0);
-
-        if (charCode >= 97 && charCode <= 122 || charCode >= 65 && charCode <= 90) {
-            reverseByType.push(reversedLetter[reverseByLetterIndex])
-            reverseByLetterIndex++;
-        }
-        else {
-            reverseByType.push(reversedCharacters[reverseByCharacterIndex])
-            reverseByCharacterIndex++;
-        }
+        reverseByType.push(
+            isLetter(s[i])
+                ? reversedLetter[reverseByLetterIndex++]
+                : reversedCharacters[reverseByCharacterIndex++]
+        );
     }
 
     return reverseByType.join("");

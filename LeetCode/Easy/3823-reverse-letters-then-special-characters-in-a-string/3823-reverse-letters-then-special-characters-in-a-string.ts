@@ -1,29 +1,30 @@
 function reverseByType(s: string): string {
+    const result = new Array<string>(s.length);
+    const reversedLetters: string[] = [];
+    const reversedSpecials: string[] = [];
+    const sLength: number = s.length;
 
-    const reverseByType: string[] = [];
-    const reversedLetter: string[] = [];
-    const reversedCharacters: string[] = [];
-    const sLength: number = s.length - 1;
-    let reverseByLetterIndex: number = 0;
-    let reverseByCharacterIndex: number = 0;
+    let li: number = 0;
+    let si: number = 0;
 
     function isLetter(ch: string): boolean {
-        const code = ch.charCodeAt(0);
+        const code: number = ch.charCodeAt(0);
         return code >= 97 && code <= 122;
     }
 
-    for (let i = sLength; i >= 0; i--) {
-        isLetter(s[i]) ? reversedLetter.push(s[i]) : reversedCharacters.push(s[i]);
+    for (let i = sLength - 1; i >= 0; i--) {
+        if (isLetter(s[i])) {
+            reversedLetters.push(s[i]);
+        } else {
+            reversedSpecials.push(s[i]);
+        }
     }
 
-    for (let i = 0; i <= sLength; i++) {
-        reverseByType.push(
-            isLetter(s[i])
-                ? reversedLetter[reverseByLetterIndex++]
-                : reversedCharacters[reverseByCharacterIndex++]
-        );
+    for (let i = 0; i < sLength; i++) {
+        result[i] = isLetter(s[i])
+            ? reversedLetters[li++]
+            : reversedSpecials[si++];
     }
 
-    return reverseByType.join("");
-};
-
+    return result.join("");
+}

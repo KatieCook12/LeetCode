@@ -75,6 +75,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3856-trim-trailing-vowels/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

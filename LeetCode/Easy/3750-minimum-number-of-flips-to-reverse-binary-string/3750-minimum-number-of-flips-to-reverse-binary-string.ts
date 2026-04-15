@@ -6,13 +6,14 @@ function minimumFlips(n: number): number {
     let left: number = 0;
     let right: number = toBinary.length - 1;
 
-    while (left < right){
-        if (toBinary[left] != toBinary[right]){
+    while (left < right) {
+
+        if (toBinary[left] != toBinary[right]) {
             count += 2;
         }
-        left ++;
-        right --;
+        left++;
+        right--;
     }
-    return count;
 
+    return count;
 };

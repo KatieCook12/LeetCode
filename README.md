@@ -70,6 +70,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3340-check-balanced-string/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -133,6 +134,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |

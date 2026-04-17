@@ -1,9 +1,9 @@
 function isCircularSentence(sentence: string): boolean {
 
-    const sentenceLength: number = sentence.length;
+    const sentenceLength: number = sentence.length - 1;
     let currentLetter: string = sentence[0];
 
-    if (currentLetter != sentence[sentence.length - 1]) {
+    if (currentLetter != sentence[sentenceLength]) {
         return false;
     }
 
@@ -17,7 +17,7 @@ function isCircularSentence(sentence: string): boolean {
         if (sentence[i] == " " && firstCharacter != " " && firstCharacter != currentLetter) {
             return false;
         }
-        
+
     }
 
     return true;

@@ -10,13 +10,14 @@ function isCircularSentence(sentence: string): boolean {
     for (let i = 0; i < sentenceLength; i++) {
 
         const firstCharacter: string = sentence[i + 1];
+
         if (sentence[i] == " ") {
             currentLetter = sentence[i - 1];
         }
-        if (sentence[i] == " " && sentence[i + 1] != " " && sentence[i + 1] != currentLetter) {
-                return false;
-            
+        if (sentence[i] == " " && firstCharacter != " " && firstCharacter != currentLetter) {
+            return false;
         }
+        
     }
 
     return true;

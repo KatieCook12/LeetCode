@@ -66,6 +66,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2490-circular-sentence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2490-circular-sentence/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |

@@ -1,0 +1,15 @@
+function removePalindromeSub(s: string): number {
+
+    let left: number = 0;
+    let right: number = s.length - 1;
+
+    while (left < right) {
+        while (s[left] != s[right]) {
+            return 2;
+        }
+        left++;
+        right--;
+    }
+
+    return 1;
+};

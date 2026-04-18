@@ -56,6 +56,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
@@ -118,6 +119,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |

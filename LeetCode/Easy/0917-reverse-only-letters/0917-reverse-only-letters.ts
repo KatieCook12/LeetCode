@@ -1,15 +1,9 @@
 function reverseOnlyLetters(s: string): string {
 
-    const reversedLetters: string[] = [];
     const reversedOnlyLetters: string[] = [];
     let index = 0;
 
-    for (let i = s.length - 1; i >= 0; i--) {
-        const code = s[i].charCodeAt(0);
-        if ((code >= 65 && code <= 90) || (code >= 97 && code <= 122)) {
-            reversedLetters.push(s[i]);
-        }
-    }
+    const reversedLetters = s.replace(/[^a-zA-Z]/g, "").split("").reverse();
 
     for (let i = 0; i < s.length; i++) {
         const code = s[i].charCodeAt(0);
@@ -22,5 +16,4 @@ function reverseOnlyLetters(s: string): string {
     }
 
     return reversedOnlyLetters.join("");
-
 }

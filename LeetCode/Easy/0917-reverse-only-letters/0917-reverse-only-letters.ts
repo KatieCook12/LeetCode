@@ -1,7 +1,7 @@
 function reverseOnlyLetters(s: string): string {
 
     const reversedOnlyLetters: string[] = [];
-    let index = 0;
+    let index: number = 0;
 
     const reversedLetters = s.replace(/[^a-zA-Z]/g, "").split("").reverse();
 

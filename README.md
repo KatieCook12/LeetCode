@@ -51,6 +51,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0917-reverse-only-letters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -118,6 +119,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0917-reverse-only-letters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |

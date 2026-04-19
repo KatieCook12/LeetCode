@@ -1,17 +1,22 @@
 function reverseOnlyLetters(s: string): string {
+    
     const isLetter = (ch: string): boolean => /[a-zA-Z]/.test(ch);
+    let left: number = 0;
+    let right: number = s.length - 1;
+    const reversedLetters: string[] = s.split("");
 
-    const reversed: string[] = s
-        .split("")
-        .filter(isLetter)
-        .reverse();
+    while (left < right) {
+        if (isLetter(s[left]) && isLetter(s[right])) {
+            reversedLetters[left] = s[right];
+            reversedLetters[right] = s[left];
+            left++;
+            right--;
+        } else if (!isLetter(s[left])) {
+            left++;
+        } else {
+            right--;
+        }
+    }
 
-    let index: number = 0;
-
-    return s
-        .split("")
-        .map((char: string): string =>
-            isLetter(char) ? reversed[index++] : char
-        )
-        .join("");
+    return reversedLetters.join("")
 }

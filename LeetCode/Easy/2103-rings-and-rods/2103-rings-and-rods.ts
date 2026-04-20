@@ -2,7 +2,7 @@ function countPoints(rings: string): number {
     const poleColours: Record<string, { Red: boolean; Green: boolean; Blue: boolean }> = {};
     let count: number = 0;
 
-    for (let i = 0; i < 10; i += 2) {
+    for (let i = 0; i < rings.length; i += 2) {
         const colour: string = rings[i];
         const pole: string = rings[i + 1];
 

@@ -5,7 +5,7 @@ function countPoints(rings: string): number {
     let count: number = 0;
 
     if (ringLength == 2) {
-        console.log(0);
+        return 0;
     }
 
     for (let i = 0; i < ringLength; i += 2) {

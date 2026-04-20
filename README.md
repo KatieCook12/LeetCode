@@ -65,6 +65,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
+| [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -175,6 +176,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1796-second-largest-digit-in-a-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

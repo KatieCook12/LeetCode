@@ -17,8 +17,7 @@ function countPoints(rings: string): number {
         if (colour === "B") poleColours[pole].Blue = true;
     }
 
-    for (const pole in poleColours) {
-        const colours = poleColours[pole];
+    for (const colours of Object.values(poleColours)) {
         if (colours.Red && colours.Green && colours.Blue) {
             count++;
         }

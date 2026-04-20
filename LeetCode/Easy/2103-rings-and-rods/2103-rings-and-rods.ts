@@ -1,16 +1,10 @@
 function countPoints(rings: string): number {
-
-    const ringLength: number = rings.length;
-    const poleColours = {};
+    const poleColours: Record<string, { Red: boolean; Green: boolean; Blue: boolean }> = {};
     let count: number = 0;
 
-    if (ringLength == 2) {
-        return 0;
-    }
-
-    for (let i = 0; i < ringLength; i += 2) {
-        const colour = rings[i];
-        const pole = rings[i + 1];
+    for (let i = 0; i < 10; i += 2) {
+        const colour: string = rings[i];
+        const pole: string = rings[i + 1];
 
         poleColours[pole] ??= {
             Red: false,
@@ -24,13 +18,11 @@ function countPoints(rings: string): number {
     }
 
     for (const pole in poleColours) {
-
         const colours = poleColours[pole];
         if (colours.Red && colours.Green && colours.Blue) {
             count++;
         }
-
     }
 
     return count;
-};
+}

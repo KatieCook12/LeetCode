@@ -2,26 +2,26 @@ function maximumValue(strs: string[]): number {
 
     let currentMaximumValue: number = 0;
 
-    for (const str of strs){
-        if (str.match(/\d/g) && str.match(/[a-z]/g)){
-            if (str.length > currentMaximumValue){
-                currentMaximumValue = str.length;
-            }
+    function lengthChecker(word: string): void {
+        const wordLength: number = word.length;
+        if (wordLength > currentMaximumValue) {
+            currentMaximumValue = wordLength;
         }
-        else if (str.match(/\d/g) && !str.match(/[a-z]/g)){
-            if (+str > currentMaximumValue){
+    }
+
+    for (const str of strs) {
+        if (str.match(/\d/g) && str.match(/[a-z]/g)) {
+            lengthChecker(str);
+        }
+        else if (str.match(/\d/g) && !str.match(/[a-z]/g)) {
+            if (+str > currentMaximumValue) {
                 currentMaximumValue = +str;
             }
         }
         else {
-            if (str.length > currentMaximumValue){
-                currentMaximumValue = str.length;
-            }
+            lengthChecker(str);
         }
     }
 
     return currentMaximumValue;
-
-
-    
 };

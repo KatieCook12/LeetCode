@@ -1,21 +1,17 @@
 function judgeCircle(moves: string): boolean {
 
-    let x = 0, y = 0;
+    let x: number = 0, y: number = 0;
 
     for (const move of moves) {
         switch (move) {
             case "U":
-                y++;
-                break;
+                y++; break;
             case "D":
-                y--;
-                break;
+                y--; break;
             case "L":
-                x--;
-                break;
+                x--; break;
             case "R":
-                x++;
-                break;
+                x++; break;
         }
     }
 

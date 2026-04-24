@@ -52,6 +52,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
@@ -181,6 +182,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1796-second-largest-digit-in-a-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -193,6 +195,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |

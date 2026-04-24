@@ -91,6 +91,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
@@ -159,6 +160,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1796-second-largest-digit-in-a-string/) | Easy |
@@ -198,6 +201,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
@@ -216,6 +220,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## String Matching
@@ -235,4 +240,16 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0258-add-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->

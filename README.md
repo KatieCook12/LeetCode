@@ -103,6 +103,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
@@ -196,6 +197,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

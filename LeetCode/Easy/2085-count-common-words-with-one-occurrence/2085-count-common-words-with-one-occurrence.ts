@@ -5,11 +5,9 @@ function countWords(words1: string[], words2: string[]): number {
     let count: number = 0;
 
     function arrayOccurrenceCounter(array: string[], hashMapCounter: Record<string, number>): void {
-        array.forEach(element => {
-            if (hashMapCounter[element] === undefined || hashMapCounter[element] <= 1) {
-                hashMapCounter[element] = (hashMapCounter[element] ?? 0) + 1;
-            }
-        });
+        for (const word of array) {
+            hashMapCounter[word] = Math.min((hashMapCounter[word] ?? 0) + 1, 2);
+        }
     }
 
     arrayOccurrenceCounter(words1, word1Count);

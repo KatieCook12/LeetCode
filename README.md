@@ -95,6 +95,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -171,6 +172,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0338-counting-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -228,6 +231,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## String Matching

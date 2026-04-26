@@ -10,8 +10,8 @@ function frequencySort(nums: number[]): number[] {
         if (a[1] !== b[1]) {
             return a[1] - b[1];
         }
-        return Number(b[0]) - Number(a[0]);
+        return +b[0] - +a[0];
     });
 
-    return sorted.flatMap(([digit, freq]) => Array(freq).fill(Number(digit)));
+    return sorted.flatMap(([digit, freq]) => Array(freq).fill(+digit));
 };

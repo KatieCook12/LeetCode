@@ -1,11 +1,11 @@
 function findIntersectionValues(nums1: number[], nums2: number[]): number[] {
 
-    const commonElements: number[] = [0,0];
+    const commonElements: number[] = [0, 0];
 
     function numberOfElements(numberArrayOne: number[], numberArrayTwo: number[], index: number): void {
         for (const item of numberArrayOne) {
             if (numberArrayTwo.includes(item)) {
-                commonElements[index] = commonElements[index] + 1;
+                commonElements[index]++;
             }
         }
     }

@@ -1,26 +1,18 @@
 function findIntersectionValues(nums1: number[], nums2: number[]): number[] {
 
-    const commonElements: number[] = [];
+    const commonElements: number[] = [0,0];
 
-    let count: number = 0;
-
-    function numberOfElements(numberArrayOne: number[], numberArrayTwo: number[]): void {
+    function numberOfElements(numberArrayOne: number[], numberArrayTwo: number[], index: number): void {
         for (const item of numberArrayOne) {
             if (numberArrayTwo.includes(item)) {
-                count++;
+                commonElements[index] = commonElements[index] + 1;
             }
         }
     }
 
-    numberOfElements(nums1, nums2);
+    numberOfElements(nums1, nums2, 0);
 
-    commonElements.push(count);
-    
-    count = 0;
-
-    numberOfElements(nums2, nums1);
-
-    commonElements.push(count);
+    numberOfElements(nums2, nums1, 1);
 
     return commonElements;
 };

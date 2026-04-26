@@ -13,5 +13,5 @@ function frequencySort(nums: number[]): number[] {
         return Number(b[0]) - Number(a[0]);
     });
 
-    return sorted.flatMap(([digit, freq]) => Array(freq).fill(Number(digit));
+    return sorted.flatMap(([digit, freq]) => Array(freq).fill(Number(digit)));
 };

@@ -108,6 +108,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
@@ -204,6 +205,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

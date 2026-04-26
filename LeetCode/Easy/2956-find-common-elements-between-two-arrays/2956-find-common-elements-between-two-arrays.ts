@@ -4,20 +4,21 @@ function findIntersectionValues(nums1: number[], nums2: number[]): number[] {
 
     let count: number = 0;
 
-    for (const num of nums1) {
-        if (nums2.includes(num)) {
-            count++;
+    function numberOfElements(numberArrayOne: number[], numberArrayTwo: number[]): void {
+        for (const item of numberArrayOne) {
+            if (numberArrayTwo.includes(item)) {
+                count++;
+            }
         }
     }
+
+    numberOfElements(nums1, nums2);
 
     commonElements.push(count);
+    
     count = 0;
 
-    for (const num of nums2) {
-        if (nums1.includes(num)) {
-            count++;
-        }
-    }
+    numberOfElements(nums2, nums1);
 
     commonElements.push(count);
 

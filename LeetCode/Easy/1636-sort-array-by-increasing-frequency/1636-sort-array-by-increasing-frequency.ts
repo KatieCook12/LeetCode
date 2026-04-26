@@ -7,10 +7,7 @@ function frequencySort(nums: number[]): number[] {
     }
 
     const sorted = Object.entries(frequency).sort((a, b) => {
-        if (a[1] !== b[1]) {
-            return a[1] - b[1];
-        }
-        return +b[0] - +a[0];
+        return a[1] !== b[1] ? a[1] - b[1] : +b[0] - +a[0];
     });
 
     return sorted.flatMap(([digit, freq]) => Array(freq).fill(+digit));

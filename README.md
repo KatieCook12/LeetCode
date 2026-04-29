@@ -118,6 +118,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
@@ -166,6 +167,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |

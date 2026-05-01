@@ -1,8 +1,11 @@
 function findWords(words: string[]): string[] {
+    const regexes: RegExp[] = [
+        /^[qwertyuiop]+$/i,
+        /^[asdfghjkl]+$/i,
+        /^[zxcvbnm]+$/i
+    ];
 
-
-    return [...words.filter(word => /^[qwertyuiopQWERTYYUIOP]+$/i.test(word)), 
-    ...words.filter(word => /^[asdfghjklASDFGHJKL]+$/i.test(word)), ...words.filter(word => /^[zxcvbnmZXCVBNM]+$/i.test(word))];
-
-
-};
+    return regexes.flatMap(regex =>
+        words.filter(word => regex.test(word))
+    );
+}

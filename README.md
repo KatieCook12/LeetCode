@@ -84,6 +84,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
+| [3330-find-the-original-typed-string-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3330-find-the-original-typed-string-i/) | Easy |
 | [3340-check-balanced-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3340-check-balanced-string/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3798-largest-even-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3798-largest-even-number/) | Easy |

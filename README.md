@@ -51,6 +51,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -95,6 +96,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -207,6 +209,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |

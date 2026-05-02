@@ -74,6 +74,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2490-circular-sentence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2490-circular-sentence/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -219,6 +220,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
@@ -240,6 +242,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |

@@ -1,21 +1,7 @@
 function findDifference(nums1: number[], nums2: number[]): number[][] {
 
-    const differenceNumsOneCheck: number[] = [];
-    const differenceNumsTwoCheck: number[] = [];
+    const differenceNumsOne = [...new Set(nums1.filter(num => !nums2.includes(num)))];
+    const differenceNumsTwo = [...new Set(nums2.filter(num => !nums1.includes(num)))];
 
-    for (const num of nums1) {
-        if (!nums2.includes(num) && !differenceNumsOneCheck.includes(num)) {
-            differenceNumsOneCheck.push(num);
-        }
-    }
-
-    for (const num of nums2) {
-        if (!nums1.includes(num) && !differenceNumsTwoCheck.includes(num)) {
-            differenceNumsTwoCheck.push(num);
-        }
-    }
-
-    return [differenceNumsOneCheck, differenceNumsTwoCheck]
-
-
+    return [differenceNumsOne, differenceNumsTwo]
 };

@@ -1,8 +1,9 @@
 function findDifference(nums1: number[], nums2: number[]): number[][] {
+    const set1 = new Set(nums1);
+    const set2 = new Set(nums2);
 
     return [
-        [...new Set(nums1.filter(num => !nums2.includes(num)))],
-        [...new Set(nums2.filter(num => !nums1.includes(num)))]
-    ]
-
-};
+        [...set1].filter(num => !set2.has(num)),
+        [...set2].filter(num => !set1.has(num))
+    ];
+}

@@ -1,11 +1,9 @@
 function maxProduct(nums: number[]): number {
 
-    let maximumProduct: number = 1;
+    const result: number = nums
+        .sort((a, b) => a - b)
+        .slice(-2)
+        .reduce((acc, num) => acc * (num - 1), 1);
 
-    const sorted =
-        nums.sort((a, b) => a - b)
-            .slice(nums.length - 2, nums.length)
-            .forEach(num => maximumProduct *= num - 1);
-
-    return maximumProduct;
+    return result;
 };

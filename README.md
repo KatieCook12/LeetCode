@@ -119,6 +119,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2942-find-words-containing-character](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -250,6 +251,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2287-rearrange-characters-to-make-target-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -310,4 +312,5 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 <!---LeetCode Topics End-->

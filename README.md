@@ -99,6 +99,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0118-pascals-triangle](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -145,6 +146,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0067-add-binary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
@@ -153,6 +155,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0917-reverse-only-letters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1332-remove-palindromic-subsequences/) | Easy |
@@ -196,6 +199,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0338-counting-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Dynamic Programming
@@ -287,6 +291,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 ## Number Theory

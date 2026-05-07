@@ -2,19 +2,8 @@ function numberGame(nums: number[]): number[] {
 
     nums.sort((a, b) => a - b);
 
-    const numLength: number = nums.length;
-    let aliceIndex: number = 0;
-    let bobIndex: number = 1;
-
-    while (bobIndex < numLength) {
-        const currentBobNumber: number = nums[bobIndex];
-        const currentAliceNumber: number = nums[aliceIndex];
-
-        nums[bobIndex] = currentAliceNumber;
-        nums[aliceIndex] = currentBobNumber;
-
-        aliceIndex += 2;
-        bobIndex += 2;
+    for (let i = 0; i < nums.length; i += 2) {
+        [nums[i], nums[i + 1]] = [nums[i + 1], nums[i]];
     }
 
     return nums;

@@ -126,6 +126,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2942-find-words-containing-character](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
@@ -149,6 +150,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -279,6 +281,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2089-find-target-indices-after-sorting-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -305,6 +308,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

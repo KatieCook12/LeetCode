@@ -1,6 +1,6 @@
 function numberGame(nums: number[]): number[] {
 
-    nums.sort((a, b) => a - b)
+    nums.sort((a, b) => a - b);
 
     const numLength: number = nums.length;
     let aliceIndex: number = 0;

@@ -130,6 +130,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |

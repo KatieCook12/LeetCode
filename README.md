@@ -134,6 +134,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3861-minimum-capacity-box/) | Easy |

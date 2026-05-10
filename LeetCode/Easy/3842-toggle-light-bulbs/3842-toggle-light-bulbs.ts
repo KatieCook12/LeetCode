@@ -1,12 +1,10 @@
 function toggleLightBulbs(bulbs: number[]): number[] {
 
-    let bulbStatus: Record<string, boolean> = {};
+    const onBulbs: Set<number> = new Set();
 
     for (const bulb of bulbs) {
-        bulbStatus[bulb] = bulbStatus[bulb] !== true;
+        onBulbs.has(bulb) ? onBulbs.delete(bulb) : onBulbs.add(bulb);
     }
 
-    return Object.entries(bulbStatus)
-        .filter(([bulb, status]) => status === true)
-        .map(([bulb]) => Number(bulb));
+    return [...onBulbs].sort((a, b) => a - b);
 };

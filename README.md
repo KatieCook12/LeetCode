@@ -138,6 +138,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3502-minimum-cost-to-reach-every-position](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3861-minimum-capacity-box/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +245,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

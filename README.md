@@ -121,6 +121,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
@@ -152,6 +153,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -283,6 +285,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2089-find-target-indices-after-sorting-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## String Matching
@@ -298,6 +301,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -310,6 +314,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |

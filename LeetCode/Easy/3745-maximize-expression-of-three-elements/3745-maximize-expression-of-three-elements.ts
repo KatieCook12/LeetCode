@@ -2,7 +2,5 @@ function maximizeExpressionOfThree(nums: number[]): number {
 
     nums.sort((a, b) => a - b);
 
-    const numLength: number = nums.length - 1;
-
-    return (nums[numLength] + nums[numLength - 1]) - nums[0];
+    return (nums[nums.length - 1] + nums[nums.length - 2]) - nums[0];
 };

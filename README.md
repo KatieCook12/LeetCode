@@ -137,6 +137,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3861-minimum-capacity-box/) | Easy |
@@ -224,6 +225,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -300,6 +303,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

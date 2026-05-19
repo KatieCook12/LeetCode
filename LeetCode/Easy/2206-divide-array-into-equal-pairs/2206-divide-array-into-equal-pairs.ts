@@ -1,14 +1,10 @@
 function divideArray(nums: number[]): boolean {
 
-    if (nums.length % 2 != 0) {
-        return false;
-    }
-
-    let count: Record<string, number> = {};
+    let seen: Record<number, boolean> = {};
 
     for (const num of nums) {
-        count[num] = (count[num] ?? 0) + 1;
+        seen[num] = !seen[num];
     }
 
-    return Object.values(count).every(num => num % 2 === 0);
-};
+    return Object.values(seen).every(v => v === false);
+}

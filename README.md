@@ -144,6 +144,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3861-minimum-capacity-box/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

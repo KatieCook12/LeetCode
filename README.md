@@ -113,6 +113,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -148,6 +149,7 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Simulation

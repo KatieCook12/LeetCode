@@ -94,6 +94,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [3838-weighted-word-mapping](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3931-check-adjacent-digit-differences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

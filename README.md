@@ -134,6 +134,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
@@ -220,6 +221,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -258,6 +260,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3663-find-the-least-frequent-digit/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 ## Sliding Window

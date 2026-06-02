@@ -130,6 +130,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -323,6 +324,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

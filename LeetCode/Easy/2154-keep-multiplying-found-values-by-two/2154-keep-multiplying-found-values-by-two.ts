@@ -1,8 +1,6 @@
 function findFinalValue(nums: number[], original: number): number {
 
-    const set = new Set<number>(nums);
-
-    while (set.has(original)) {
+    while (nums.includes(original)) {
         original *= 2;
     }
 

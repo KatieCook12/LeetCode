@@ -120,6 +120,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -164,6 +165,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0657-robot-return-to-origin](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -257,6 +259,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2103-rings-and-rods/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -310,6 +313,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |

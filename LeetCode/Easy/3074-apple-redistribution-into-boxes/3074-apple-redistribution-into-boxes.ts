@@ -5,7 +5,6 @@ function minimumBoxes(apple: number[], capacity: number[]): number {
     capacity.sort((a, b) => b - a);
 
     return capacity.reduce((accumulator, currentValue) => {
-        console.log(appleSum)
         if (appleSum > 0) {
             appleSum -= currentValue;
             accumulator++;

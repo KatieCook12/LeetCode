@@ -101,6 +101,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0118-pascals-triangle](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
@@ -308,6 +309,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |

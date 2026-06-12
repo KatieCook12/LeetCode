@@ -64,6 +64,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1332-remove-palindromic-subsequences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1796-second-largest-digit-in-a-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -262,6 +263,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1796-second-largest-digit-in-a-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |

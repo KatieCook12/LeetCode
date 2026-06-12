@@ -1,10 +1,9 @@
 function maxLengthBetweenEqualCharacters(s: string): number {
 
     const count: Record<string, number> = {};
-    const sLength: number = s.length;
     let maxDistance: number = -1;
 
-    for (let i = 0; i < sLength; i++) {
+    for (let i = 0; i < s.length; i++) {
         const ch: string = s[i];
         if (count[ch] === undefined) {
             count[ch] = i;

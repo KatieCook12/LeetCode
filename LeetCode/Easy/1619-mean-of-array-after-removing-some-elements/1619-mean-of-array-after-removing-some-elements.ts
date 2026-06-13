@@ -4,7 +4,11 @@ function trimMean(arr: number[]): number {
 
     const fivePercent: number = arr.length / 20;
 
-    const arrSliced: number[] = arr.slice(fivePercent, arr.length - fivePercent);
+    let sum: number = 0;
 
-    return arrSliced.reduce((accumulator, currentValue) => accumulator + currentValue, 0) / arrSliced.length
+    for (let i = fivePercent; i < arr.length - fivePercent; i++) {
+        sum += arr[i];
+    }
+
+    return sum / (arr.length - (fivePercent * 2));
 };

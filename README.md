@@ -110,6 +110,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -247,6 +248,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | ------- | ------- |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -322,6 +324,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1122-relative-sort-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1619-mean-of-array-after-removing-some-elements/) | Easy |

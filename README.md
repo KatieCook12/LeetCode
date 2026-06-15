@@ -130,6 +130,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2215-find-the-difference-of-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -175,6 +176,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3248-snake-in-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3248-snake-in-matrix/) | Easy |
@@ -251,6 +253,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3074-apple-redistribution-into-boxes/) | Easy |
@@ -278,6 +281,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2287-rearrange-characters-to-make-target-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -334,6 +338,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -370,6 +375,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |

@@ -9,7 +9,7 @@ function evenOddBit(n: number): number[] {
         if (binaryToArray[i] === "1") {
             i % 2 === 0 ? evenCount++ : oddCount++;
         }
-    };
+    }
 
     return [evenCount, oddCount];
 }

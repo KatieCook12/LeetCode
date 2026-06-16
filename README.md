@@ -238,6 +238,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Dynamic Programming

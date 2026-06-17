@@ -116,6 +116,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -332,6 +333,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1913-maximum-product-difference-between-two-pairs/) | Easy |

@@ -2,8 +2,7 @@ function intersection(nums1: number[], nums2: number[]): number[] {
 
     const intersectionOfArrays: number[] = [];
 
-    const numsOneSet = new Set(nums1);
-
+    const numsOneSet: Set<number> = new Set(nums1);
 
     for (const n of numsOneSet) {
         if (nums2.includes(n)) {
@@ -12,5 +11,4 @@ function intersection(nums1: number[], nums2: number[]): number[] {
     }
 
     return intersectionOfArrays;
-
 };

@@ -108,6 +108,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1122-relative-sort-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -333,6 +334,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1122-relative-sort-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |

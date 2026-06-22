@@ -142,6 +142,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -260,6 +261,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3074-apple-redistribution-into-boxes/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3745-maximize-expression-of-three-elements/) | Easy |
@@ -351,6 +353,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2363-merge-similar-items](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |

@@ -8,6 +8,9 @@ function countPairs(nums: number[], target: number): number {
             if (nums[i] + nums[j] < target) {
                 count++;
             }
+            else {
+                break;
+            }
         }
     }
     return count;

@@ -144,6 +144,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2643-row-with-maximum-ones](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -200,6 +201,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1768-merge-strings-alternately](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -354,6 +356,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -407,6 +410,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

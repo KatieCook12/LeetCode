@@ -103,6 +103,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0832-flipping-an-image](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0942-di-string-match](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0942-di-string-match/) | Easy |
@@ -274,6 +275,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0349-intersection-of-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1122-relative-sort-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -302,12 +304,14 @@ If you find this repository useful, feel free to ⭐ star it!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -336,6 +340,7 @@ If you find this repository useful, feel free to ⭐ star it!
 | [0347-top-k-frequent-elements](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1122-relative-sort-array](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/KatieCook12/LeetCode/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
